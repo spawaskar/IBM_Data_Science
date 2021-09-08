@@ -1,2 +1,2 @@
-# ibm_watson_studio
-IBM Watson Studio Projects
+# ibm_data_science
+IBM Data Science on Coursera
